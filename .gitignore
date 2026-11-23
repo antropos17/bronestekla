@@ -1,0 +1,7 @@
+backup/
+.playwright-mcp/
+*.zip
+*.glb
+*.png
+tools/
+CLAUDE.md
